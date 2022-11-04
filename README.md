@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youngjeek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...JS TS and then I am supposed to learn react.
+- 👀 I’m interested in Making service with ReactJS and React native
+- 🌱 I’m currently learning JS,TS and then I am supposed to learn React native.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...youngjeek@gmail.com
 
