@@ -1,4 +1,4 @@
-- 아 알아갈수록 알아야할 것들이 산적해있었음을 알게될 뿐이다.
+- "우리가 안다고 생각하는 것이 우리가 알아야 할 것을 가리고 있다." - 박웅형 < 덟덟 단어>
 - 👋 Hi, I’m @youngjeek
 - 👀 I’m interested in Frontend working with React, JS, TS.
 - 🌱 I’m currently learning JS,TS,ReactJS,GIT,TDD related to Frontent web programming and then I am supposed to learn React native. Finally, I want to make and propose rapid online order,connecting platform service embracing PC, mobile. I consider it for small bakery and cafe.
