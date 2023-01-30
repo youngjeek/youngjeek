@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @youngjeek
 - 👀 I’m interested in Frontend working with React, JS, TS.
 - 🌱 I’m currently learning JS,TS,ReactJS,GIT,TDD related to Frontent web programming and then I am supposed to learn React native. Finally, I want to make and propose rapid online order,connecting platform service embracing PC, mobile. I consider it for small bakery and cafe.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on something new project.
 - 📫 How to reach me ...youngjeek@gmail.com
 
 
